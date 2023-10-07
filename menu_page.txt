@@ -1,0 +1,7 @@
+                         _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+                        |    <<WELCOME TO TIC TAC TOE>>     |
+                        |                                   |
+                        |           MENU OPTIONS:           |
+                        |           1.Play                  |
+                        |           2.Instructions          |
+                         - - - - - - - - - - - - - - - - - -

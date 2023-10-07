@@ -1,0 +1,44 @@
+Welcome to the instructions to play My version of TIC-TAC_TOE.
+--------------------------------------------------------------
+
+--> First of all you will be entering your names.
+--> Players can agree to set number of games to play (series) , the player with
+    most games won will be victorious , in case number of games won by both the
+    players will be same , then players will have their game drawn.
+
+--> After entering in game Tic-Tac check board will appear as :
+
+	       |       |
+	   .   |   .   |   .
+	_______|_______|_______
+	       |       |
+	   .   |   .   |   .
+	_______|_______|_______
+	       |       |
+	   .   |   .   |   .
+	       |       |
+
+--> Here you see 9 portions , when you will be asked to enter
+    the choice you will enter numbers 1 - 9 to select the loc.
+
+--> I.e to access middle location you will enter number 5
+
+
+RULES
+-----
+--> A player should aim to make a 3 elemental connection to win
+    the game as followings :
+
+
+	       |       |
+	   O   |   .   |   .
+	_______|_______|_______
+	       |       |
+	   .   |   0   |   .
+	_______|_______|_______
+	       |       |
+	   .   |   .   |   O
+	       |       |
+
+--> In my tic toe version , player can choose any unlike character to play with
+--> Only that player will win , who will make successful elemental connection.
